@@ -3,6 +3,8 @@
 needs env: 
 GITLAB_API_KEY , GITLAB_URL
 
+--------
+
 USAGE:
 ./mergeRequestScript.sh
 
