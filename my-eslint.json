@@ -1,0 +1,29 @@
+{
+	"extends": [
+		"eslint:recommended"
+	],
+	"rules": {
+		"semi":"off",
+		"quotes": "off",
+		"indent": "off",
+		"padded-blocks": "off",
+		"space-in-parens": "off",
+		"no-multiple-empty-lines": "off",
+		"dot-notation": "off",
+		"spaced-comment": "off",
+		"camelcase": "off",
+		"space-infix-ops": "off",
+		"array-bracket-spacing": "off",
+		"func-call-spacing": "off",
+		"no-trailing-spaces": "off",
+		"space-before-blocks": "off",
+		"space-before-function-paren": "off",
+		"object-curly-spacing": "off",
+		"key-spacing": "off",
+		"comma-spacing": "off",
+		"arrow-spacing": "off",
+		"quote-props": "off",
+		"no-multi-spaces": "off",
+		"space-unary-ops":"off"
+	}
+}
