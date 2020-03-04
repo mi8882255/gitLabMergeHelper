@@ -20,5 +20,5 @@ Create symlink to current project
 
 Then ask for: 
 - npm i
-- eslint on changed(without check spaces it must be already globaly installed)
+- eslint on changed(without check spaces, it must be already globaly installed)
 - open it in idea (on mac you must create launcher: Tools > Create Commandline Launcher)
